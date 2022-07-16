@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exam", "Exam\Exam.csproj", "{29553248-4822-4AF5-A89C-B955E9445145}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuizEditor", "QuizEditor\QuizEditor.csproj", "{6C7D4EF0-F086-463F-9275-035376D4B7C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29553248-4822-4AF5-A89C-B955E9445145}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29553248-4822-4AF5-A89C-B955E9445145}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29553248-4822-4AF5-A89C-B955E9445145}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29553248-4822-4AF5-A89C-B955E9445145}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C7D4EF0-F086-463F-9275-035376D4B7C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C7D4EF0-F086-463F-9275-035376D4B7C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C7D4EF0-F086-463F-9275-035376D4B7C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C7D4EF0-F086-463F-9275-035376D4B7C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {243190BA-7EE3-4C19-B3A5-90786B3FBEB6}
+	EndGlobalSection
+EndGlobal
